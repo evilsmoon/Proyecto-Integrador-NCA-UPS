@@ -8,5 +8,5 @@
 #### INTEGRANTES :
 -	GABRIEL MORALES
 -	Esteban Aulestia calvo toxico
--	
+-	Carlos Revelo
 -	
