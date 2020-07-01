@@ -9,4 +9,4 @@
 -	GABRIEL MORALES
 -	Esteban Aulestia calvo toxico
 -	Carlos Revelo
--	
+-	Jonathan Andrés Barrionuevo Portero 
