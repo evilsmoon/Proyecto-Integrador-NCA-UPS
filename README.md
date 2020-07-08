@@ -10,3 +10,5 @@
 -	Esteban Aulestia calvo toxico
 -	Carlos Revelo
 -	Jonathan Andrés Barrionuevo Portero 
+## version
+- V 0.0.1
